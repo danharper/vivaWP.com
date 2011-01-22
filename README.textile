@@ -1,0 +1,5 @@
+h3. vivaWP Homepage
+
+vivaWP is an upcoming open-source WordPress framework to simplify the process of creating advanced theme functionality through a simple API. Just drop the @viva@ folder into your theme directory, add one line of code to your @functions.php@ and enable whatever features you want to use.
+
+This is the 'Coming Soon' page for the project.
